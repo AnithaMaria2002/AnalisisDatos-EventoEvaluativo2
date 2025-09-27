@@ -32,10 +32,6 @@ Para ejecutar el proyecto localmente, asegúrese de tener Python instalado y sig
 
 ---
 
-## 🔬 Metodología de Preprocesamiento Avanzado (Fase 3)
-
-El proceso de preparación de _features_ fue diseñado para ser robusto y eficiente, haciendo uso de `sklearn.compose.ColumnTransformer`.
-
 ### 1. Manejo de Variables Numéricas con Outliers (RobustScaler y Logaritmo)
 
 Las variables con fuerte sesgo, como `ganancia_capital` y `perdidas_capital`, fueron tratadas en dos pasos cruciales:
