@@ -1,3 +1,17 @@
+## Integrantes
+- Juan David Gaviria Correa
+- Ana Maria Valencia Restrepo
+- Juan Sebastian Restrepo Nieto
+- Juan Felipe Muñoz Rengifo
+
+## Links Eventos Evaluativos
+
+- [EventoEvaluativo2](https://github.com/AnithaMaria2002/AnalisisDatos-EventoEvaluativo2)
+- [EventoEvaluativo3](https://github.com/JuanDa237/AnalisisDatos-EventoEvaluativo3)
+- [EventoEvaluativo4](https://github.com/JuanDa237/EventoEvaluativo4-AnalisisDeDatos)
+- [ProyectoFinal](https://github.com/JuanDa237/ProyectoFinal-AnalisisDeDatos)
+
+
 # 📊 Análisis Avanzado de Datos: Predicción de Ingresos (Adult Income Dataset)
 
 Este repositorio documenta el flujo completo de un proyecto de _Data Science_ enfocado en el **Adult Income Dataset** (Censo de Ingresos de EE. UU.). El objetivo principal es predecir si un individuo gana **más de $50,000 USD** al año, utilizando técnicas avanzadas de preprocesamiento, escalado robusto y **Análisis Discriminante Lineal (LDA)** para optimizar la dimensionalidad.
